@@ -4,4 +4,4 @@
   - Hands-On Generative AI with Transformers and Diffusion Models
 
 
-https://cpaofferslinks.github.io/books-landing-page/
+https://www.things4everyone.shop
